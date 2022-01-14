@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pycounts"
+name = "pycountstz"
 version = "0.1.0"
 description = "Calculate word counts in a text file!"
 authors = ["Ting Zhe Yan"]
